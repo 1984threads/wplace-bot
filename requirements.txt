@@ -1,0 +1,4 @@
+patchright==1.52.5
+playwright==1.52.0
+pillow==11.2.1
+cloudscraper
